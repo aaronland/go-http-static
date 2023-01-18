@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/aaronland/go-http-rewrite"
 	"io/fs"
-	"log"
+	_ "log"
 	"net/http"
 	"strings"
 )
@@ -70,7 +70,7 @@ func AppendStaticAssetHandlersWithPrefix(mux *http.ServeMux, static_fs fs.FS, pr
 			path = fmt.Sprintf("/%s", path)
 		}
 
-		log.Printf("APPEND '%s'\n", path)
+		// log.Printf("APPEND '%s'\n", path)
 
 		mux.Handle(path, asset_handler)
 		return nil
