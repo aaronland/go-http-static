@@ -1,4 +1,4 @@
-github.com/aaronland/go-http-rewrite v1.1.1 h1:4dGa/E1GvsYRhoZTGb2UyXQjTy89j/e5Sgq/XnN2rm4=
-github.com/aaronland/go-http-rewrite v1.1.1/go.mod h1:d6PZB5GIAlZeyvJTzeGkGnMPFc4UjhbNUHrXIeQgSJs=
-golang.org/x/net v0.33.0 h1:74SYHlV8BIgHIFC/LrYkOGIwL19eTYXQ5wc6TBuO36I=
-golang.org/x/net v0.33.0/go.mod h1:HXLR5J+9DxmrqMwG9qjGCxZ+zKXxBru04zlTvWlWuN4=
+github.com/aaronland/go-http-rewrite v1.1.2 h1:OODm8DMCXf37Vv6enmBJk/uDYGl/iu/rzN+oCahPrz0=
+github.com/aaronland/go-http-rewrite v1.1.2/go.mod h1:SPmi9kmIkA8Qdd0OH8FjWtBGyLJ56FiowEfnIoRmeq8=
+golang.org/x/net v0.42.0 h1:jzkYrhi3YQWD6MLBJcsklgQsoAcw89EcZbJw8Z614hs=
+golang.org/x/net v0.42.0/go.mod h1:FF1RA5d3u7nAYA4z2TkclSCKh68eSXtiFwcWQpPXdt8=
